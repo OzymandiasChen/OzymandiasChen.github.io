@@ -15,3 +15,10 @@ bundle exec jekyll serve -l
 gem 'tzinfo'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]  
 -->
+
+<!-- git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:OzymandiasChen/OzymandiasChen.github.io.git
+git push -u origin main -->

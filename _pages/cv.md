@@ -79,7 +79,7 @@ Research Experience
 <p style="text-align:left;">
     <i>Based on the relationship between audio and text, two rules of designing Multimodal Emotion Recognition model are proposed, and corresponding rule-based multimodal attention network (MMRBAN) is designed.</i>
     <span style="float:right;">
-        <i>2022/11 – 2023/05</i>
+        <i>2022/08 – 2023/01</i>
     </span>
 </p>
 

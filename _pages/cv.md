@@ -152,7 +152,7 @@ Publications
 
 * **Xi Chen**, Yongwei Gao, and Wei Li. Singing Voice Detection via Similarity-based Semi-supervised Learning. ACM International Conference on Multimedia in Asia (ACM MM Asia), 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3551626.3564963)
 
-* Shuai Yu, **Xi Chen**, and Wei Li. Hierarchical Graph-based Neural Network for Singing Melody Extraction. 
+* Shuai Yu, **Xi Chen**, and Wei Li. Hierarchical Graph-based Neural Network for Singing Melody Extraction. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. [Paper](https://ieeexplore.ieee.org/document/9747629)
 
 * **Xi Chen**, Lei Wang, and Wei Li. Channel-Wise Attention Mechanism in Convolutional Neural Networks for Music Emotion Recognition. Conference on Sound and Music Technology (CSMT), 2020. [Paper](https://link.springer.com/chapter/10.1007/978-981-16-1649-5_4)
 

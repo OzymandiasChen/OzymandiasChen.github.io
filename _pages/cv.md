@@ -51,7 +51,7 @@ Work Experience
 
 ### Baidu Inc.
 <p style="text-align:left;">
-    <i>Speech Algorithm Engineer</i>
+    <i>Speech & Audio Research Engineer</i>
     <span style="float:right;">
         <i>2022/02 – 2022/07</i>
     </span>
@@ -62,7 +62,7 @@ Work Experience
 
 ### Tencent Music Entertainment
 <p style="text-align:left;">
-    <i>Audio and Music Algorithm Intern</i>
+    <i>Music & Audio Research Intern</i>
     <span style="float:right;">
         <i>2021/06 – 2021/09</i>
     </span>

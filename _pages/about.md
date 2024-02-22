@@ -38,7 +38,7 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 * **Xi Chen**, Lei Wang, and Wei Li. Channel-Wise Attention Mechanism in Convolutional Neural Networks for Music Emotion Recognition. Conference on Sound and Music Technology (CSMT), 2020. [Paper](https://link.springer.com/chapter/10.1007/978-981-16-1649-5_4)
 
 ### Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework.
-* **Xi Chen**. **[Position Paper, Under review]** Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024. 
+* **Xi Chen**. **[Under review]** Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework. 2024. 
 <!-- [Paper](../files/Social_PTM.pdf) -->
 
 

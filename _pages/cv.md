@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Click [here](../files/CV.pdf) to download the PDF version. (Updated on 2024/01/24)
+Click [here](../files/CV.pdf) to download the PDF version. (Updated on 2024/02/23)
 {% include base_path %}
 
 Education

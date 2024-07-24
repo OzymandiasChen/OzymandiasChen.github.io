@@ -147,7 +147,7 @@ Research Experience
 Publications
 ======
 
-* **Xi Chen**. [Accepted] MMRBN: Rule-Based Network for Multimodal Emotion Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+* **Xi Chen**. [Accepted] MMRBN: Rule-Based Network for Multimodal Emotion Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. [Paper](https://ieeexplore.ieee.org/document/10447930)
 <!-- * [Paper](../files/MMRBN.pdf)  -->
 
 * **Xi Chen**, Yongwei Gao, and Wei Li. Singing Voice Detection via Similarity-based Semi-supervised Learning. ACM International Conference on Multimedia in Asia (ACM MM Asia), 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3551626.3564963)

@@ -24,7 +24,7 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 ------
 
 ### MMRBN: Rule-Based Network for Multimodal Emotion Recognition.
-* **Xi Chen**. [Accepted] MMRBN: Rule-Based Network for Multimodal Emotion Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+* **Xi Chen**. MMRBN: Rule-Based Network for Multimodal Emotion Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. [Paper](https://ieeexplore.ieee.org/document/10447930)
 <!-- * [Paper](../files/MMRBN.pdf)  -->
 
 ### Singing Voice Detection via Similarity-based Semi-supervised Learning.
@@ -37,8 +37,8 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 ### Channel-Wise Attention Mechanism in Convolutional Neural Networks for Music Emotion Recognition.
 * **Xi Chen**, Lei Wang, and Wei Li. Channel-Wise Attention Mechanism in Convolutional Neural Networks for Music Emotion Recognition. Conference on Sound and Music Technology (CSMT), 2020. [Paper](https://link.springer.com/chapter/10.1007/978-981-16-1649-5_4)
 
-### Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework.
-* **Xi Chen**. **[Under review]** Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework. 2024. 
+<!-- ### Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework. -->
+<!-- * **Xi Chen**. **[Under review]** Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework. 2024. -->
 <!-- [Paper](../files/Social_PTM.pdf) -->
 
 

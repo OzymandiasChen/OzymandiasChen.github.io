@@ -21,7 +21,7 @@ Education
     </span>
 </p>
 <!-- _Doctor of Philosophy, 2023/09 – Present_       -->
-* GPA: 3.7/4.3
+* GPA: 3.5/4.3
 
 ### Fudan University
 <p style="text-align:left;">
@@ -42,7 +42,6 @@ Education
     </span>
 </p>
 <!-- _Bachelor of Engineering in Computer Science and Technology, 2014/09 – 2018/07_ -->
-* Honors: <u>National Encouragement Scholarship (2015) </u>, Learning Excellent Award (2015)
 <!-- * Honors: National Encouragement Scholarship (2015), Learning Excellent Award (2015) -->
 * GAP: 3.27/5, Ranking: 20/102
 
@@ -70,6 +69,25 @@ Work Experience
 <!-- _Audio and Music Algorithm Intern, 2021/06 – 2021/09_ -->
 * Singing Evaluation algorithm development (vocal range, pitch accuracy, vocal stability, and sense of rhythm).
 * Accented Singing Identification algorithm research and development.
+
+
+Publications
+======
+
+* **Xi Chen**. MMRBN: Rule-Based Network for Multimodal Emotion Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. [Paper](https://ieeexplore.ieee.org/document/10447930)
+<!-- * [Paper](../files/MMRBN.pdf)  -->
+
+* **Xi Chen**, Yongwei Gao, and Wei Li. Singing Voice Detection via Similarity-based Semi-supervised Learning. ACM International Conference on Multimedia in Asia (ACM MM Asia), 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3551626.3564963)
+
+* Shuai Yu, **Xi Chen**, and Wei Li. Hierarchical Graph-based Neural Network for Singing Melody Extraction. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. [Paper](https://ieeexplore.ieee.org/document/9747629)
+
+* **Xi Chen**, Lei Wang, and Wei Li. Channel-Wise Attention Mechanism in Convolutional Neural Networks for Music Emotion Recognition. Conference on Sound and Music Technology (CSMT), 2020. [Paper](https://link.springer.com/chapter/10.1007/978-981-16-1649-5_4)
+
+<!-- * **Xi Chen**. **[Under review]** Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework. 2024. -->
+<!-- * [Paper](../files/Social_PTM.pdf) -->
+
+* Shuai Yu, Yi Yu, **Xi Chen**, and Wei Li. HANME: hierarchical attention network for singing melody extraction. IEEE Signal Processing Letters, vol. 28, pp. 1006-1010, 2021. [Paper](https://ieeexplore.ieee.org/document/9432745) 
+
 
 
 Research Experience
@@ -143,23 +161,6 @@ Research Experience
     </th>
   </tr> 
 </table>
-
-Publications
-======
-
-* **Xi Chen**. [Accepted] MMRBN: Rule-Based Network for Multimodal Emotion Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. [Paper](https://ieeexplore.ieee.org/document/10447930)
-<!-- * [Paper](../files/MMRBN.pdf)  -->
-
-* **Xi Chen**, Yongwei Gao, and Wei Li. Singing Voice Detection via Similarity-based Semi-supervised Learning. ACM International Conference on Multimedia in Asia (ACM MM Asia), 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3551626.3564963)
-
-* Shuai Yu, **Xi Chen**, and Wei Li. Hierarchical Graph-based Neural Network for Singing Melody Extraction. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. [Paper](https://ieeexplore.ieee.org/document/9747629)
-
-* **Xi Chen**, Lei Wang, and Wei Li. Channel-Wise Attention Mechanism in Convolutional Neural Networks for Music Emotion Recognition. Conference on Sound and Music Technology (CSMT), 2020. [Paper](https://link.springer.com/chapter/10.1007/978-981-16-1649-5_4)
-
-* **Xi Chen**. **[Under review]** Social-PTM: Pre-training Model for Social Media Language Understanding using Hierarchical Contextual Constructive Learning Framework. 2024.
-<!-- * [Paper](../files/Social_PTM.pdf) -->
-
-* Shuai Yu, Yi Yu, **Xi Chen**, and Wei Li. HANME: hierarchical attention network for singing melody extraction. IEEE Signal Processing Letters, vol. 28, pp. 1006-1010, 2021. [Paper](https://ieeexplore.ieee.org/document/9432745) 
 
 Skills
 ======
